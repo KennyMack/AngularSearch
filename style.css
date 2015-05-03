@@ -1,0 +1,22 @@
+table{
+  width: 550px;
+  border:1px solid rgb(180,182,182);
+}
+
+th{
+  background-color: rgb(170,170,170);
+}
+
+table th {
+  width:300px;
+}
+
+table th:first-child{
+  width:50px;
+}
+
+table th:last-child{
+  width:180px;
+}
+
+ 
